@@ -1,0 +1,158 @@
+[
+  {
+    "id": "IMG_1402",
+    "image": "data/my_photos/IMG_1402.png",
+    "image_sha256": "eac4c9789ee2fea91d41015a555aa1adb3162b662d9f582ebbaf2dc0626458e1",
+    "engine": "VLM",
+    "version": "qwen2.5vl:3b",
+    "ollama_python_version": "0.6.3",
+    "ollama_server_version": null,
+    "execution": "local CPU",
+    "preprocessing": "raw",
+    "parameters": {
+      "temperature": 0,
+      "num_gpu": 0,
+      "num_ctx": 8192,
+      "prompt": "Перепиши дослівно весь текст із зображення, зберігаючи рядки. Нічого не виправляй, не перекладай і не додавай пояснень."
+    },
+    "confidence": null,
+    "seconds": 464.42137609981,
+    "text": "Се було моє вчнення, перегу було"
+  },
+  {
+    "id": "IMG_1403",
+    "image": "data/my_photos/IMG_1403.png",
+    "image_sha256": "e4b5824cfd6de049ffd557dc1a097f221e92ada8934b8fed78ee29831768a7c6",
+    "engine": "VLM",
+    "version": "qwen2.5vl:3b",
+    "ollama_python_version": "0.6.3",
+    "ollama_server_version": null,
+    "execution": "local CPU",
+    "preprocessing": "raw",
+    "parameters": {
+      "temperature": 0,
+      "num_gpu": 0,
+      "num_ctx": 8192,
+      "prompt": "Перепиши дослівно весь текст із зображення, зберігаючи рядки. Нічого не виправляй, не перекладай і не додавай пояснень."
+    },
+    "confidence": null,
+    "seconds": 366.848411699757,
+    "text": "Са буно ма бунасі, переб буримсом\nкафілого суру, в ормін. і білошко\nпровіну оролонко месні. Відоме бідна\nперша, карна фунара сіміненоса, і\nсуу бічоочу сураші свірає - селенне,\nмногіе, окієві ренесанські, номічнійімі бітан\nкінсіе. Адворам діві сьбеній Ріора\nпобієг бенічіб месоне, вефба беніа\nі-насіде своїх рівнинів, улай руме\nсемені, що буєм осіоранерії рі агіріоні\nбулінг і менеф, десуло міо бімскуїн\nбенієвіт оборонії, не пійськи увілінені\nпієбугіанає, але мадро мані рідієо\nв дірої увійівівіо іроеуу біорані\nмє фармашке ласовісбека, і-ра керіфоро\nрімнась буєа бура.\nМаріанна 73 -47 08.11.2026"
+  },
+  {
+    "id": "IMG_1404",
+    "image": "data/my_photos/IMG_1404.png",
+    "image_sha256": "1052aab4f4c68d64c7761c24d38c95bab62bcb8790cbe131551139e4a0364788",
+    "engine": "VLM",
+    "version": "qwen2.5vl:3b",
+    "ollama_python_version": "0.6.3",
+    "ollama_server_version": null,
+    "execution": "local CPU",
+    "preprocessing": "raw",
+    "parameters": {
+      "temperature": 0,
+      "num_gpu": 0,
+      "num_ctx": 8192,
+      "prompt": "Перепиши дослівно весь текст із зображення, зберігаючи рядки. Нічого не виправляй, не перекладай і не додавай пояснень."
+    },
+    "confidence": null,
+    "seconds": 433.5638329996728,
+    "text": "Се було на вулиці, перед будинком\nкафельного суву, в орнаменті з білою\nпідлогою. Вже снів були\nперше, кермо фірмівка скінчилася, і\nсуву відкрився суперечував свідомі - селенію,\nвідкрився, окрім різних, навіть інших білак,\nнічків. Адже сама дія Сьогодній Річора -\nпобачив білічів підсічі, відкривши\nі - наслідок своїх різнихців, уній руми\nсімейні, що були осібрані рідні рідні\nбули і місії фісуром і бого білосерді\nі білій обробіті, не післясі увіннені\nперебуваючи, але мідно мешкі рідні в\nдійсні увіннені Просту фісуром\nперебуваючи місії відбування\nпосовісів, і - за компром\nгромадської було було."
+  },
+  {
+    "id": "IMG_1405",
+    "image": "data/my_photos/IMG_1405.png",
+    "image_sha256": "4c0b3d0d9f4d91e2aef29e8f15c5d14f77f21439fc1b08003dfff8593d6f86d3",
+    "engine": "VLM",
+    "version": "qwen2.5vl:3b",
+    "ollama_python_version": "0.6.3",
+    "ollama_server_version": null,
+    "execution": "local CPU",
+    "preprocessing": "raw",
+    "parameters": {
+      "temperature": 0,
+      "num_gpu": 0,
+      "num_ctx": 8192,
+      "prompt": "Перепиши дослівно весь текст із зображення, зберігаючи рядки. Нічого не виправляй, не перекладай і не додавай пояснень."
+    },
+    "confidence": null,
+    "seconds": 390.77372180018574,
+    "text": "Kernel\n- component of OS that acts between software and hardware\n- manages processes and provides services to apps\n- communicates with hardware devices through device drivers\n- This drivers are modules that allow the OS to interact with hardware components\n- manages network connections, packet data, transmission between apps and the network interface\nComparison\n- compared to ULE, it consumes less system resources\n- consumes less memory and disk space"
+  },
+  {
+    "id": "IMG_1402",
+    "image": "data/my_photos/IMG_1402.png",
+    "image_sha256": "eac4c9789ee2fea91d41015a555aa1adb3162b662d9f582ebbaf2dc0626458e1",
+    "engine": "Tesseract",
+    "version": "5.5.3.20260724",
+    "ollama_python_version": null,
+    "ollama_server_version": null,
+    "execution": "local CPU",
+    "preprocessing": "raw",
+    "parameters": {
+      "lang": "ukr",
+      "oem": 1,
+      "psm": 6
+    },
+    "confidence": 0.303943661971831,
+    "seconds": 2.2797866999171674,
+    "text": "| | рр р (о ди ло бо Фе Я / 9 і убодли є ОФ фарм си; Фе ПА дмдтьнагмО СИРА. ; | і у пофегоа сорав долі афо- обом умо ся д 2 \"л, фудяє ПОТИРУЗУВИНИ Оз 311 ДА я ба б сн - они Рога - Шо 0 а боєе 9 9 ШИ 7... дан гю. ЛУ \"ло о/ДОвано виє т 77 Щі - 3 ТАКО зб хх"
+  },
+  {
+    "id": "IMG_1403",
+    "image": "data/my_photos/IMG_1403.png",
+    "image_sha256": "e4b5824cfd6de049ffd557dc1a097f221e92ada8934b8fed78ee29831768a7c6",
+    "engine": "Tesseract",
+    "version": "5.5.3.20260724",
+    "ollama_python_version": null,
+    "ollama_server_version": null,
+    "execution": "local CPU",
+    "preprocessing": "raw",
+    "parameters": {
+      "lang": "ukr",
+      "oem": 1,
+      "psm": 6
+    },
+    "confidence": 0.2236842105263158,
+    "seconds": 1.4223326002247632,
+    "text": "С нано пи ЗА РРО о Р Ф Й рим ур дном фуру драатьниги о гр. емо бігдиле 9 а афа-  сбич ум лося г дур воласраам - праг рем о Па босолох сббчена че лебіато имя міоморм з боці біол 22. Р пня срмлайм з Чо Йди осеорамара! по от раза Й бала оборфоьіа км пабиаом б убело 971707727722У 7 /302 022777 мис | ребер СД 4 27 7 Вр ПИЛИ // ї ре іожлариморо о ладобіодея., І -ра око 0 димаой ацьла Зуге і АУРУ МИЛО З Р з -- 3373 ЗНОВ ДОННА"
+  },
+  {
+    "id": "IMG_1404",
+    "image": "data/my_photos/IMG_1404.png",
+    "image_sha256": "1052aab4f4c68d64c7761c24d38c95bab62bcb8790cbe131551139e4a0364788",
+    "engine": "Tesseract",
+    "version": "5.5.3.20260724",
+    "ollama_python_version": null,
+    "ollama_server_version": null,
+    "execution": "local CPU",
+    "preprocessing": "raw",
+    "parameters": {
+      "lang": "ukr",
+      "oem": 1,
+      "psm": 6
+    },
+    "confidence": 0.3013888888888889,
+    "seconds": 2.5002601002343,
+    "text": "(е 7 / Иро Й 2 2 М г С | а «РУ, ди ( 9 2 УР ВуР ОСІ | СРФА | о бан сао беа дієте /2) (бив ана; 77 во Бр | б С о СЛ АЛАЄ | цу Є 06 п 7 Й Кобадоов 0 боро 9 ФЕРУМ й ЗНО ДЛ 080 кре око ребус У/ 9977 ПРНОГО, ром СЮ : | Ж то. одовесовея // «фа. Сб,"
+  },
+  {
+    "id": "IMG_1405",
+    "image": "data/my_photos/IMG_1405.png",
+    "image_sha256": "4c0b3d0d9f4d91e2aef29e8f15c5d14f77f21439fc1b08003dfff8593d6f86d3",
+    "engine": "Tesseract",
+    "version": "5.5.3.20260724",
+    "ollama_python_version": null,
+    "ollama_server_version": null,
+    "execution": "local CPU",
+    "preprocessing": "raw",
+    "parameters": {
+      "lang": "eng",
+      "oem": 1,
+      "psm": 6
+    },
+    "confidence": 0.23870000000000002,
+    "seconds": 2.466531900223345,
+    "text": "a ES ee oe ee -| ae ie f (Ae 2a ’ ere PES 0 oak ekg fptvee! a BS ona PPeT ttt tee tlecorpl dasica te anne Peer te same ¢ de vers as SRannesagnae: \"Sanaa aa sygatastessies: aa crmase. PP SEaEr ETT tele debater: WZ BER SEEE ETA a Pt ly [MILA FO He ppaccrner chap * i eee Cee A Goa a as ep | Cee =! BOC MS R a Ea: i516 | |Ce c Ae betes — BE? ee — Rane: piel Gf : Oy a tom ies ys ual a a | Lei. EE"
+  }
+]
