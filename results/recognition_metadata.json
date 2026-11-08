@@ -12,9 +12,9 @@
       "raw": []
     }
   },
-  "vlm_synthetic_selection": {
-    "level": 32,
-    "count": 40,
-    "reason": "User-requested reduced experiment"
+  "ollama_server_current": {
+    "version": "0.40.15",
+    "source": "user supplied /api/version response",
+    "scope": "current server; recognition-time version not confirmed"
   }
 }
