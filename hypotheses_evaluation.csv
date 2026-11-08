@@ -1,0 +1,4 @@
+hypothesis,criterion,actual,status
+1,CER32 <= 0.10 and CER10 > 0.10,CER32=0.01684633; CER10=0.05271095,спростовано
+2,CER_raw - CER_otsu >= 0.05,difference=0.02039218,спростовано
+3,CER_own_ukr >= 2 * CER32,CER_own_ukr=0.79942529; ratio=47.45396206,підтверджено

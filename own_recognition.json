@@ -17,7 +17,12 @@
     },
     "confidence": null,
     "seconds": 464.42137609981,
-    "text": "Се було моє вчнення, перегу було"
+    "text": "Се було моє вчнення, перегу було",
+    "ollama_server_current": {
+      "version": "0.40.15",
+      "source": "user supplied /api/version response",
+      "scope": "current server; recognition-time version not confirmed"
+    }
   },
   {
     "id": "IMG_1403",
@@ -37,7 +42,12 @@
     },
     "confidence": null,
     "seconds": 366.848411699757,
-    "text": "Са буно ма бунасі, переб буримсом\nкафілого суру, в ормін. і білошко\nпровіну оролонко месні. Відоме бідна\nперша, карна фунара сіміненоса, і\nсуу бічоочу сураші свірає - селенне,\nмногіе, окієві ренесанські, номічнійімі бітан\nкінсіе. Адворам діві сьбеній Ріора\nпобієг бенічіб месоне, вефба беніа\nі-насіде своїх рівнинів, улай руме\nсемені, що буєм осіоранерії рі агіріоні\nбулінг і менеф, десуло міо бімскуїн\nбенієвіт оборонії, не пійськи увілінені\nпієбугіанає, але мадро мані рідієо\nв дірої увійівівіо іроеуу біорані\nмє фармашке ласовісбека, і-ра керіфоро\nрімнась буєа бура.\nМаріанна 73 -47 08.11.2026"
+    "text": "Са буно ма бунасі, переб буримсом\nкафілого суру, в ормін. і білошко\nпровіну оролонко месні. Відоме бідна\nперша, карна фунара сіміненоса, і\nсуу бічоочу сураші свірає - селенне,\nмногіе, окієві ренесанські, номічнійімі бітан\nкінсіе. Адворам діві сьбеній Ріора\nпобієг бенічіб месоне, вефба беніа\nі-насіде своїх рівнинів, улай руме\nсемені, що буєм осіоранерії рі агіріоні\nбулінг і менеф, десуло міо бімскуїн\nбенієвіт оборонії, не пійськи увілінені\nпієбугіанає, але мадро мані рідієо\nв дірої увійівівіо іроеуу біорані\nмє фармашке ласовісбека, і-ра керіфоро\nрімнась буєа бура.\nМаріанна 73 -47 08.11.2026",
+    "ollama_server_current": {
+      "version": "0.40.15",
+      "source": "user supplied /api/version response",
+      "scope": "current server; recognition-time version not confirmed"
+    }
   },
   {
     "id": "IMG_1404",
@@ -57,7 +67,12 @@
     },
     "confidence": null,
     "seconds": 433.5638329996728,
-    "text": "Се було на вулиці, перед будинком\nкафельного суву, в орнаменті з білою\nпідлогою. Вже снів були\nперше, кермо фірмівка скінчилася, і\nсуву відкрився суперечував свідомі - селенію,\nвідкрився, окрім різних, навіть інших білак,\nнічків. Адже сама дія Сьогодній Річора -\nпобачив білічів підсічі, відкривши\nі - наслідок своїх різнихців, уній руми\nсімейні, що були осібрані рідні рідні\nбули і місії фісуром і бого білосерді\nі білій обробіті, не післясі увіннені\nперебуваючи, але мідно мешкі рідні в\nдійсні увіннені Просту фісуром\nперебуваючи місії відбування\nпосовісів, і - за компром\nгромадської було було."
+    "text": "Се було на вулиці, перед будинком\nкафельного суву, в орнаменті з білою\nпідлогою. Вже снів були\nперше, кермо фірмівка скінчилася, і\nсуву відкрився суперечував свідомі - селенію,\nвідкрився, окрім різних, навіть інших білак,\nнічків. Адже сама дія Сьогодній Річора -\nпобачив білічів підсічі, відкривши\nі - наслідок своїх різнихців, уній руми\nсімейні, що були осібрані рідні рідні\nбули і місії фісуром і бого білосерді\nі білій обробіті, не післясі увіннені\nперебуваючи, але мідно мешкі рідні в\nдійсні увіннені Просту фісуром\nперебуваючи місії відбування\nпосовісів, і - за компром\nгромадської було було.",
+    "ollama_server_current": {
+      "version": "0.40.15",
+      "source": "user supplied /api/version response",
+      "scope": "current server; recognition-time version not confirmed"
+    }
   },
   {
     "id": "IMG_1405",
@@ -77,7 +92,12 @@
     },
     "confidence": null,
     "seconds": 390.77372180018574,
-    "text": "Kernel\n- component of OS that acts between software and hardware\n- manages processes and provides services to apps\n- communicates with hardware devices through device drivers\n- This drivers are modules that allow the OS to interact with hardware components\n- manages network connections, packet data, transmission between apps and the network interface\nComparison\n- compared to ULE, it consumes less system resources\n- consumes less memory and disk space"
+    "text": "Kernel\n- component of OS that acts between software and hardware\n- manages processes and provides services to apps\n- communicates with hardware devices through device drivers\n- This drivers are modules that allow the OS to interact with hardware components\n- manages network connections, packet data, transmission between apps and the network interface\nComparison\n- compared to ULE, it consumes less system resources\n- consumes less memory and disk space",
+    "ollama_server_current": {
+      "version": "0.40.15",
+      "source": "user supplied /api/version response",
+      "scope": "current server; recognition-time version not confirmed"
+    }
   },
   {
     "id": "IMG_1402",
