@@ -1,0 +1,15 @@
+{
+  "model": "qwen2.5vl:3b",
+  "temperature": 0,
+  "prompt": "Перепиши дослівно весь текст із зображення, зберігаючи рядки. Нічого не виправляй, не перекладай і не додавай пояснень.",
+  "tesseract": "5.5.3.20260724",
+  "ollama_python": "0.6.3",
+  "preprocessing": {
+    "raw": [],
+    "prep": [
+      "upscale",
+      "denoise",
+      "binarize"
+    ]
+  }
+}
