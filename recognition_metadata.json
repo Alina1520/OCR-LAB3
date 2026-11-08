@@ -5,11 +5,16 @@
   "tesseract": "5.5.3.20260724",
   "ollama_python": "0.6.3",
   "preprocessing": {
-    "raw": [],
-    "prep": [
-      "upscale",
-      "denoise",
-      "binarize"
-    ]
+    "Tesseract": {
+      "raw": [],
+      "prep": [
+        "upscale",
+        "denoise",
+        "binarize"
+      ]
+    },
+    "VLM": {
+      "raw": []
+    }
   }
 }
