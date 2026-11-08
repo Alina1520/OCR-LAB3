@@ -6,12 +6,7 @@
   "ollama_python": "0.6.3",
   "preprocessing": {
     "Tesseract": {
-      "raw": [],
-      "prep": [
-        "upscale",
-        "denoise",
-        "binarize"
-      ]
+      "raw": []
     },
     "VLM": {
       "raw": []
