@@ -11,5 +11,10 @@
     "VLM": {
       "raw": []
     }
+  },
+  "vlm_synthetic_selection": {
+    "level": 32,
+    "count": 40,
+    "reason": "User-requested reduced experiment"
   }
 }
