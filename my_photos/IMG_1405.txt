@@ -1,0 +1,19 @@
+      Kernel
+- component of OS that acts between
+software and hardware
+- manage resources and provide
+services to app.
+- communicates with hardware devices
+through device drivers
+- This drivers are modules that
+allow the OS to interact with hardwa
+components.
+- manages network connections, routing
+data transmission between app and
+the network interface.
+         Containers
+- compared to VMs because they
+share the host operating system's
+kernel
+- consume fewer memory and start
+quickly
